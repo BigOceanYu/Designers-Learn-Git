@@ -281,7 +281,7 @@ kendydeng       强奸犯
 kendydeng       纵火犯
 Tadayima        有强迫症的码农++
 xiao            初学者
-Yu              学习学习
+cYu              学习学习
 ls		本地
 Jeason          吃货-胖子
 dean            设计师
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+Cleveland Cavaliers CHAMPIONSHIP 2018
